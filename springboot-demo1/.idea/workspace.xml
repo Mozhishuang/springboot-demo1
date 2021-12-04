@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f414760a-9b68-4ffc-88ea-1e886e3588ee" name="Default Changelist" comment="" />
+    <list default="true" id="f414760a-9b68-4ffc-88ea-1e886e3588ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day1-testMaven/Day1-testMaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2InterfaceTestSSm/Day2InterfaceTestSSm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day2类和对象Class/.idea/Day2类和对象Class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo4/Demo4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ECharts-nCoV-Map-main/ECharts-nCoV-Map-main/.idea/ECharts-nCoV-Map-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GsKotlinOneDay/GsKotlinOneDay.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project01-master/Project01-master/.idea/EpidemicSituationSWU.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Project01-master/Project01-master/project_innovation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestDay1-1/TestDay1-1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestDay1-2SSM/.idea/TestDay1-2SSM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo1/demo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/demo3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin基础语法/.idea/kotlin基础语法.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin基础语法/.idea/modules/kotlin基础语法.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin基础语法/.idea/modules/kotlin基础语法.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yiqingGs/yiqingGs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +57,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -55,6 +75,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1tegKhbGQFE0EgPxaU0WGao9BAC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,9 +88,10 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project01-master/Project01-master" />
+    <property name="last_opened_file_path" value="F:/GraduationDesign" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -165,7 +187,7 @@
       <workItem from="1623824356332" duration="6988000" />
       <workItem from="1623891077723" duration="3665000" />
       <workItem from="1638159295205" duration="1232000" />
-      <workItem from="1638607001553" duration="3185000" />
+      <workItem from="1638607001553" duration="5122000" />
     </task>
     <servers />
   </component>
@@ -176,6 +198,14 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="readme" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="761" y="222" key="FileChooserDialogImpl" timestamp="1638613641928">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="761" y="222" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1638613641928" />
+    <state x="823" y="372" width="315" height="273" key="Github.ShareDialog" timestamp="1638614876009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="823" y="372" width="315" height="273" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1638614876009" />
     <state x="540" y="26" width="996" height="774" key="SettingsEditor" timestamp="1638610171126">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
